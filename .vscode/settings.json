@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/42e40d28-16e2-4e42-aeda-b1d325f2d638/microsoft.web/sites/subscriptions/42e40d28-16e2-4e42-aeda-b1d325f2d638/resourceGroups/a5brothers_group-a377/providers/Microsoft.Web/sites/a5brothers",
+    "appService.deploySubpath": "publish"
+}
